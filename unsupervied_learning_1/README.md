@@ -11,7 +11,6 @@ with Python code to demonstrate, in practice, the application of the popular uns
 The popular [MD17 database](http://www.sgdml.org/#datasets) generated from *ab initio* molecular dynamics 
 simulations is used as a motivating example for the analyses presented in the tutorial.
 
-
 ## Main topics covered in this tutorial 
 
 - Dimensionality reduction
