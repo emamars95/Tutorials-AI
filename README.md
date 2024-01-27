@@ -1,9 +1,7 @@
 # Unsupervised Learning Module 1
 
-## Welcome
-This module provides a practical guide to applying popular unsupervised learning methods for analyzing molecular dynamics data, leveraging the MD17 database from *ab initio* molecular dynamics simulations.
-
 ## Tutorial Overview
+This module provides a practical guide to applying popular unsupervised learning methods for analyzing molecular dynamics data, leveraging the MD17 database from *ab initio* molecular dynamics simulations.
 
 ### Main Topics
 - **Dimensionality Reduction**:
@@ -32,13 +30,12 @@ By the end of this tutorial, participants will be able to:
 ### Dataset
 - **MD17 Database**: Utilized for practical demonstrations, available at [SGDML - MD17 Database](http://www.sgdml.org/#datasets).
 
+---
 
 # Unsupervised Learning Module 2
 
-## Overview
+## Tutorial Overview
 This tutorial is a part of the Seminars on Machine Learning in Quantum Chemistry and Quantum Computing for Quantum Chemistry (SMLQC). It focuses on applying unsupervised machine learning methods to analyze data from nonadiabatic molecular dynamics (NAMD) simulations, particularly those obtained within the surface hopping approximation. The goal is to automate pattern discovery and gain chemical insights from complex NAMD datasets.
-
-## Tutorial Content
 
 ### Introduction to NAMD Data Analysis
 - **High-Dimensional Data**: NAMD data as multivariate time series objects, representing molecular geometries and quantum properties.
@@ -63,12 +60,12 @@ This tutorial is a part of the Seminars on Machine Learning in Quantum Chemistry
 - Develop skills in using ULaMDyn for comprehensive data analysis.
 - Extract meaningful chemical insights from complex NAMD datasets.
 
+---
+
 # Molecular Dynamics with Deep Learning
 
-## Introduction
+## Tutorial Overview
 This tutorial demonstrates how to train and deploy machine learning models for potential energy surfaces using [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack), catering to both Colab and local environments.
-
-## Tutorial Structure
 
 ### Key Steps
 - **Dataset Preparation**: Guidelines for preparing datasets to train machine learning potentials with SchNetPack.
@@ -97,9 +94,8 @@ This tutorial demonstrates how to train and deploy machine learning models for p
 
 # Computer Vision#
 
-This folder contains a few tutorials for beginners of TensorFlow. The goal of this series of tutorial is to introduce the reader to the basic concepts of Machine Learning (ML) and, more specifically, to the Deep Learning (DL) algorithm using engaging examples and posing challenging questions.   
-
 ## Tutorial Overview
+This folder contains a few tutorials for beginners of TensorFlow. The goal of this series of tutorial is to introduce the reader to the basic concepts of Machine Learning (ML) and, more specifically, to the Deep Learning (DL) algorithm using engaging examples and posing challenging questions.
 
 ### Main Topics
 - Introduction to computer vision: In this first tutorial, we move to the first steps with TensorFlow. The goal is not to explain exactly all the algorithms behind the Neural Network (NN) optimization but rather give a first feeling on the concepts behind ML. We create a simple, single-layer NN to recognize different objects from a set of images extracted from the MNIST library. 
@@ -111,4 +107,6 @@ To fully engage with this tutorial, the following are necessary:
   - Data processing: `pandas`, `numpy`, `scikit-learn`, `tensorflow`
   - Visualization: `seaborn`, `matplotlib`
 - **Online Execution**: Available via [Google Colab](https://colab.research.google.com/github)
+
+---
 
