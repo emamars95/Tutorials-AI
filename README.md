@@ -92,7 +92,7 @@ This tutorial demonstrates how to train and deploy machine learning models for p
  
 ---
 
-# Computer Vision#
+# Computer Vision
 
 ## Tutorial Overview
 This folder contains a few tutorials for beginners of TensorFlow. The goal of this series of tutorial is to introduce the reader to the basic concepts of Machine Learning (ML) and, more specifically, to the Deep Learning (DL) algorithm using engaging examples and posing challenging questions.
